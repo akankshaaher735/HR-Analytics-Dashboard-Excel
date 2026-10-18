@@ -1,10 +1,10 @@
-# HR Analytics Dashboard Using Excel
+# HR Analytics Dashboard 
 
 ## Project Overview
 This project focuses on analyzing employee data to understand workforce trends and employee attrition using Excel.
 
 ## Tools Used
-- Microsoft Excel
+- Microsoft Excel / WPS Spreadsheet
 - Pivot Tables and Pivot Charts
 - KPI Cards
 - Interactive Slicers
