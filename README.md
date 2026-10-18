@@ -1,5 +1,9 @@
 # HR Analytics Dashboard 
 
+## Dashboard Preview
+
+![HR Analytics Dashboard](HR-Analytics-Dashboard.png.png)
+
 ## Project Overview
 This project focuses on analyzing employee data to understand workforce trends and employee attrition using Excel.
 
